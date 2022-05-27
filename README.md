@@ -1,7 +1,8 @@
 # Validador-Email-Domain
 
-Este programa sirve para validar dominios de email. El mismo funciona de dos maneras. El primer metodo utiliza procesos.
-Estos ejecutan en una consola el comando de nslok up que valida dominios. el mismo captura la respuesta y devuelve true o false.
+This program is used to validate email domains. It works in two ways. The first method uses processes. These execute the nslook up command in a console that validates domains. Then, the result of the execution of the command is captured and analized to validate the domain. If the domain is valid it returns true.
 
-La otra forma se ejecuta en el caso de que la consola no se puda ejecutar por cualquier motivo. 
-Este metodo consta de la llamada a una api, capturando su respuesta en formato JSON y validando el dominio ingresado.
+The other way is executed in the event that the console could not be executed for whatever reason. This method consists of calling an api, capturing its response in JSON format and validating the entered domain.
+
+
+###U HAVE TO INSERT THE FULL DOMAIN, IF YOU WRITE ONLY GMAIL, IT WILL RETURN FALSE. YOU HAVE TO INSERT GMAIL.COM
