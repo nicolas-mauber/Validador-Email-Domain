@@ -9,7 +9,7 @@ The other way is executed in the event that the console could not be executed fo
 ### I GIVE YOU SOME EXAMPLES UNDERNEETH
 
 Complete domains that will return TRUE ->
-- gmai.com
+- gmail.com
 - adinet.com
 - yahoo.com
 
