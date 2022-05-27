@@ -5,4 +5,15 @@ This program is used to validate email domains. It works in two ways. The first 
 The other way is executed in the event that the console could not be executed for whatever reason. This method consists of calling an api, capturing its response in JSON format and validating the entered domain.
 
 
-### U HAVE TO INSERT THE FULL DOMAIN, IF YOU WRITE ONLY GMAIL, IT WILL RETURN FALSE. YOU HAVE TO INSERT GMAIL.COM
+### U HAVE TO INSERT THE FULL DOMAIN, IF YOU WRITE ONLY GMAIL, IT WILL RETURN FALSE. YOU HAVE TO INSERT GMAIL.COM OR WHATEVER
+### I GIVE YOU SOME EXAMPLES UNDERNEETH
+
+Complete domains that will return TRUE ->
+- gmai.com
+- adinet.com
+- yahoo.com
+
+Incomplete domains that will return FALSE ->
+- gmail
+- adinet
+- yahoo
