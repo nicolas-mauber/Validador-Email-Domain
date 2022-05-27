@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v0BlBJP0Q5j1f8TTOLwiENiM8SmulWSrrzM8bZmZSdHRuZwsTN6zGvc24Eh21rEFQAyaVnEuJNXUAmUxwonZbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nmauber\\Desktop\\EmailDomainValidator\\EmailDomainValidator\\EmailDomainValidator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nmauber\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

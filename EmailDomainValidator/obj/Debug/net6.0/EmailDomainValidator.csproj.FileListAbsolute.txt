@@ -1,0 +1,17 @@
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\obj\Debug\net6.0\EmailDomainValidator.csproj.AssemblyReference.cache
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\obj\Debug\net6.0\EmailDomainValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\obj\Debug\net6.0\EmailDomainValidator.AssemblyInfoInputs.cache
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\obj\Debug\net6.0\EmailDomainValidator.AssemblyInfo.cs
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\obj\Debug\net6.0\EmailDomainValidator.csproj.CoreCompileInputs.cache
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\bin\Debug\net6.0\EmailDomainValidator.exe
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\bin\Debug\net6.0\EmailDomainValidator.deps.json
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\bin\Debug\net6.0\EmailDomainValidator.runtimeconfig.json
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\bin\Debug\net6.0\EmailDomainValidator.dll
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\bin\Debug\net6.0\EmailDomainValidator.pdb
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\obj\Debug\net6.0\EmailDomainValidator.csproj.CopyComplete
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\obj\Debug\net6.0\EmailDomainValidator.dll
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\obj\Debug\net6.0\refint\EmailDomainValidator.dll
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\obj\Debug\net6.0\EmailDomainValidator.pdb
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\obj\Debug\net6.0\EmailDomainValidator.genruntimeconfig.cache
+C:\Users\nmauber\Desktop\EmailDomainValidator\EmailDomainValidator\obj\Debug\net6.0\ref\EmailDomainValidator.dll
